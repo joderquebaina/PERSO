@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:+1,group-title="SERIES",ONE PIECE episodio 741
+#EXTINF:0 ,group-title="SERIES",ONE PIECE episodio 741
 https://cdn-cached-vped-ahdl-15-bvf.dailymotians.cam/hls/liwaivuuka2nsti77evcuuy44ubeyuvasuaadowbvbo72bqx2q5vkekpijyq/index-v1-a1.m3u8
 
-#EXTINF:-1 ,group-title="SERIES",ONE PIECE episodio 742
+#EXTINF:0 ,group-title="SERIES",ONE PIECE episodio 742
 https://cdn-cached-vped-ahdl-15-bvf.dailymotians.cam/hls/liwaivuuka2nsti77evcuuy44ubeyuvasuaadowbvi6p2bqx2q53h7jf43wa/index-v1-a1.m3u8
 
-#EXTINF:-0 ,group-title="SERIES",ONE PIECE episodio 743
+#EXTINF:0 ,group-title="SERIES",ONE PIECE episodio 743
 https://cdn-cached-vped-ahdl-15-bvf.dailymotians.cam/hls/liwaiweuka2nsti77evcutakuq6zau2m6kdfrvvyamsrdtww2wsmhimyml2q/index-v1-a1.m3u8
 
-#EXTINF:+0 ,"SERIES",PRUEBA
+#EXTINF:0 ,"SERIES",PRUEBA
 https://psd2.youdbox.site/d/jowxebz7xm3qv3jsrknig3guhjonebpp6k6seqddi5pjuclup2p3xq7yd3o7bmqbj2uvienj/video.mp4
